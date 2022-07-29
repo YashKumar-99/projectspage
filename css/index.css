@@ -1,0 +1,21 @@
+.header-background img{
+    max-height: 400px;
+    width: 100%;
+    object-fit: cover;
+}
+.img-rounded.card-image {
+    width: 100%;
+}
+.react-title {
+    text-align: center;
+    margin: 25px 0px;
+}
+.card-section {
+    margin-bottom: 5%;
+}
+.about-me {
+    position: absolute;
+    top: 50%;
+    left: 6%;
+    transform: translateY(-50%);
+}
